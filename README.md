@@ -6,6 +6,7 @@ This workflow is for JIRA Server users. If you are using JIRA Cloud, this workfl
 1. ###[Download the workflow](https://github.com/scarstens/alfred-workflow-jira-search-utilities/blob/main/JIRA-Server-Utilities-by-Seth.alfredworkflow?raw=true)
 2. Find and open the file you downloaded (probably in your downloads folder or your desktop) and open the file.
 <img width="707" alt="2021-04-08_17-00-07" src="https://user-images.githubusercontent.com/1483300/114110268-fc8e6a80-988b-11eb-89a3-d1530b70e4c8.png">
+
 3. Click import to install the workflow
 4. Activate alfred keyword search and use `jsconfig` to begin the workflow configuration wizard.
 5. Enter your jira server domain first, likely something like `jira.mywebsite.com`.
