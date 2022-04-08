@@ -8,7 +8,7 @@ This workflow is for JIRA Server users. If you are using JIRA Cloud, this workfl
 
 ## Installation
 
-1. Download the workflow](https://github.com/scarstens/alfred-workflow-jira-search-utilities/blob/main/JIRA-Server-Utilities-by-Seth.alfredworkflow?raw=true)
+1. [Download the workflow](https://github.com/scarstens/alfred-workflow-jira-search-utilities/blob/main/JIRA-Server-Utilities-by-Seth.alfredworkflow?raw=true).
 2. Find and open the file you downloaded (probably in your downloads folder or your desktop) and open the file.
 <img width="707" alt="2021-04-08_17-00-07" src="https://user-images.githubusercontent.com/1483300/114110268-fc8e6a80-988b-11eb-89a3-d1530b70e4c8.png">
 
